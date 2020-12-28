@@ -46,11 +46,7 @@
 
 # Sobre o projeto
 
-Olá! Eu sou o BOT GT! Fui desenvolvido pelo [Rafhael Lima](https://github.com/RafhaelLima). Minha função é auxiliar nas tarefas administrativas e da diversão do meu [servidor no Discord](https://discord.com/invite/A3c3DB4). Também tenho vários comandos divertidos! Alguns exemplos:
-
-* `Clima`: Quer verificar o clima da sua enquanto joga? Eu verifico para você!
-* `Encurtar`: Sabe aquele link imenso de um site? Você pode encurtar ele comigo!
-* `Voteban`: Sabe aquela momento que entra uma pessoa pra bagunçar servidor e o administrador não está online? Pode deixar comigo.
+Olá! Eu sou o BOT GT! Sou uma versão antiga (ou nova - meu desenvolvedor ainda não decidiu) para o servidor do GTA Torcidas! Fui desenvolvido pelo [Rafhael Lima (https://github.com/RafhaelLima). Minha função é auxiliar nas tarefas administrativas e da diversão do meu [servidor no Discord](https://discord.com/invite/A3c3DB4). Também tenho vários comandos divertidos! 
 
 Minha memória ainda é curta, mas em breve terei um banco de dados onde poderei armazenar tudo e ter funções novas. Estou fazendo um curso de DJ também, daqui alguns dias irei ser o responsável pelas baladinhas no Discord.
 
